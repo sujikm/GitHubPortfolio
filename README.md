@@ -5,5 +5,5 @@ Skills: Java, HTML, CSS, JavaScript (beginner),Mobile Apps, Agile Methodologies,
 Goals: To build cool projects, contribute to open-source, and keep learning!
 Hobbies: Sketching, gaming, reading tech blogs, and listening to music.
 My Sample Projects Links
-Socket Programming: 
-https://github.com/sujikm/Ionic-Mobile-App
+Socket Programming: https://github.com/sujikm/SocketProgramming
+Mobile Application Project: https://github.com/sujikm/Ionic-Mobile-App
